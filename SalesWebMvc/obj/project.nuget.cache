@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynhr/B3ANpCi+SVdTP4JSnn141C8rhMFYI8UoUqDyrADj+TphJfYbazuSUK+lDzCozGB+J6pRkUheZYqI8wmLg==",
+  "dgSpecHash": "WbiS3uVODctH7c5aOaRJvlL8nsvYvkffJLC+jspa7Q51I5At6BLgTtVZq1JWGuyOEupn58bINkPy85yOE5X0hg==",
   "success": true,
-  "projectFilePath": "C:\\temp\\ws-vs2022\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\temp\\ws-vs2022\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
