@@ -7,7 +7,6 @@ C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\SalesWebMvc.runtimeco
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\SalesWebMvc.dll
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\ref\SalesWebMvc.dll
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\SalesWebMvc.pdb
-C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\obj\Debug\net6.0\SalesWebMvc.csproj.AssemblyReference.cache
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\obj\Debug\net6.0\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\obj\Debug\net6.0\SalesWebMvc.AssemblyInfoInputs.cache
 C:\temp\ws-vs2022\SalesWebMvc\SalesWebMvc\obj\Debug\net6.0\SalesWebMvc.AssemblyInfo.cs
